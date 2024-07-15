@@ -1,3 +1,8 @@
+---
+layout: post
+title: Privacy Policy
+---
+
 # Privacy Policy
 
 The protection of your personal data is of utmost importance to us. We are committed to protecting your personal data in compliance with the data protection laws applicable to you.
